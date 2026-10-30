@@ -1,14 +1,22 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="lib\" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="StudentLibrary">
+			<HintPath>lib\StudentLibrary.dll</HintPath>
+			<Private>true</Private>
+		</Reference>
+
+		<None Update="lib/StudentLibrary.xml" CopyToOutputDirectory="PreserveNewest" />
+	</ItemGroup>
 
 </Project>
