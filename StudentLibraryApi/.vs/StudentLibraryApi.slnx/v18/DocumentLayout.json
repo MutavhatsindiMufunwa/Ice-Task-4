@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmufu\\OneDrive\\Documents\\GitHub\\Ice-Task-4\\StudentLibraryApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB0F072-2927-4DCD-B790-0291E1FF6DD0}|StudentLibraryApi\\StudentLibraryApi.csproj|c:\\users\\mmufu\\onedrive\\documents\\github\\ice-task-4\\studentlibraryapi\\studentlibraryapi\\studentlibraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAB0F072-2927-4DCD-B790-0291E1FF6DD0}|StudentLibraryApi\\StudentLibraryApi.csproj|solutionrelative:studentlibraryapi\\studentlibraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentLibraryApi",
+              "DocumentMoniker": "C:\\Users\\mmufu\\OneDrive\\Documents\\GitHub\\Ice-Task-4\\StudentLibraryApi\\StudentLibraryApi\\StudentLibraryApi.csproj",
+              "RelativeDocumentMoniker": "StudentLibraryApi\\StudentLibraryApi.csproj",
+              "ToolTip": "C:\\Users\\mmufu\\OneDrive\\Documents\\GitHub\\Ice-Task-4\\StudentLibraryApi\\StudentLibraryApi\\StudentLibraryApi.csproj",
+              "RelativeToolTip": "StudentLibraryApi\\StudentLibraryApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-30T15:27:40.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
